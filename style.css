@@ -1,16 +1,23 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
 
-.time{
-    background: black;
-    color: #fff;
-    font-family: 'Roboto', Serif;
-    width: 500px;
-    height: 100px;
-    font-weight: bold;
-    margin: 100px auto;
-    font-size: 50px;
-    border-radius: 18px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+body {
+  background-image: url("alexandar-todov-AMzC2RVurO4-unsplash.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+.time {
+  background: black;
+  color: #fff;
+  font-family: "Roboto", Serif;
+  width: 500px;
+  height: 100px;
+  font-weight: bold;
+  margin: 100px auto;
+  font-size: 50px;
+  border-radius: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
